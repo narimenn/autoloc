@@ -4,7 +4,7 @@ import tn.esprit.autoloc.Entities.Agence;
 
 import java.util.List;
 
-interface IAgenceServiceImp {
+public interface IAgenceServiceImp {
 
     Agence addAgence(Agence agence);
 
